@@ -9,7 +9,7 @@ import { Sections } from './styles';
 const Section = ({ profile }) => (
   <>
     <Sections id="about">
-      <Title texto={`Olá pessoal, sou o ${profile.nome}`} />
+      <Title texto="E ai pessoal!!" />
       <SectionHeading>
         {profile.nome} <Highlight>{profile.sobrenome}</Highlight>
       </SectionHeading>
