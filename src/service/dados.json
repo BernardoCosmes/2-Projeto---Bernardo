@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "img": "https://avatars.githubusercontent.com/u/101565329?v=4",
+    "nome": "Bernardo",
+    "sobrenome": "Souza",
+    "cidade": "Barbacena",
+    "estado": "MG",
+    "contato": "(32) 99126-3282",
+    "email": "bernardocosmedesouza@gmail.com",
+    "biografia": "Olá, meu nome é Bernardo, tenho 23 anos e estou em busca de melhorar minhas habilidades profissionais.",
+    "experiencia": [
+      {
+        "id": 1,
+        "cargo": "Call center",
+        "empresa": "Net-Rosas",
+        "periodo": "Agosto 2022 - 2023",
+        "atividades": "Suporte técnico capaz de solucionar a demanda no primeiro atendimento."
+      }
+    ],
+    "habilidades": [
+      {
+        "id": 1,
+        "habilidade": "Técnico em Eletroeletrocina ",
+        "empresa": "SENAI",
+        "periodo": "2020 - 2022",
+        "atividades": "Instalar, operar e manter equipamentos e sistemas destinados à geração, transmissão e distribuição de energia elétrica."
+      },
+      {
+        "id": 2,
+        "habilidade": "Técnico em Informatica",
+        "empresa": "Senac",
+        "periodo": "2021 á 2023",
+        "atividades": "Montagem, acabamento e manutenção de computadores."
+      }
+
+    ],
+    "projetos": [
+      {
+        "id": 1,
+        "nomeprojeto": "Portifolio",
+        "linkprojeto": "https://github.com/BernardoCosmes?tab=repositories",
+        "resumoprojeto": "Realizei portifolio simples em html , js e css."
+      }
+    ]
+  }
+}
